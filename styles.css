@@ -1,0 +1,72 @@
+/* global */
+footer {
+    background-color: #212529;
+    color: goldenrod;
+    text-align: center;
+    padding: 10px 
+}
+body {
+    background-color: lightgray
+}
+.maillink {
+    color:goldenrod;
+}
+.pushdown {
+    height: 40px;
+}
+.navbar-dark .navbar-brand {
+    color:goldenrod;
+}
+
+/* index */
+.jumbotron-fluid {
+    background-image: url("pictures/bubbles.jpeg");
+    background-size: cover;
+}
+
+.jumbotron-fluid h1 {
+    color: #212529;
+    text-align: center;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white
+}
+
+.navitron {
+    padding: 2rem
+}
+.navitron .display-4 {
+    font-size: 2.5rem;
+    font-family: 'Amatic SC', cursive;
+}
+
+.fas {
+    color: goldenrod
+}
+
+.btn-primary {
+    background-color: darkgoldenrod;
+    border-color: darkgoldenrod
+}
+
+/* product pages */
+
+.card-text {
+    margin: 0px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px
+}
+.card {
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    justify-self: center;
+    margin: 10px; 
+    border-top-width: 10px;
+    border-top-color: white
+}
+.card-img-top {
+    max-width: 70%;
+    max-height: 70%;
+}
+.card-subtitle {
+    color: darkgoldenrod!important;
+}
