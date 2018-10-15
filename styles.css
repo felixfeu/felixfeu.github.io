@@ -70,3 +70,13 @@ body {
 .card-subtitle {
     color: darkgoldenrod!important;
 }
+
+/* about */
+#aboutpictures {
+    height: 0%
+}
+.jumbotron {
+    margin: 0 auto; 
+    margin-top: 20px;
+    margin-bottom: 20px
+}
